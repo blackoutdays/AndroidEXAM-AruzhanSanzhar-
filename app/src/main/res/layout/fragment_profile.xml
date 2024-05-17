@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.profile.ProfileFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Oval profile image -->
+            <ImageView
+                android:id="@+id/profile_image"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginTop="16dp"
+                android:src="@drawable/profile_image"
+                android:scaleType="centerCrop"
+                android:background="@drawable/oval_background"
+                android:layout_gravity="center_horizontal"/>
+
+
+            <!-- Background rectangle with information -->
+            <LinearLayout
+                android:id="@+id/background_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rectangle_background"
+                android:layout_margin="16dp"
+                android:orientation="vertical">
+
+                <!-- Information text views -->
+                <!-- Sample text views for demonstration -->
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Name: John Doe"
+                    android:textSize="16sp"
+                    android:textColor="@android:color/black"
+                    android:padding="8dp"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/background_info2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rectangle_background"
+                android:layout_margin="16dp"
+                android:orientation="vertical">
+            <TextView
+                    android:id="@+id/age"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Age: 30"
+                    android:textSize="16sp"
+                    android:textColor="@android:color/black"
+                    android:padding="8dp"/>
+
+        </LinearLayout>
+            <LinearLayout
+                android:id="@+id/background_info3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rectangle_background"
+                android:layout_margin="16dp"
+                android:orientation="vertical">
+        <TextView
+                    android:id="@+id/gmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Gmail: johndoe@gmail.com"
+                    android:textSize="16sp"
+                    android:textColor="@android:color/black"
+                    android:padding="8dp"/>
+
+    </LinearLayout>
+            <LinearLayout
+                android:id="@+id/background_info4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rectangle_background"
+                android:layout_margin="16dp"
+                android:orientation="vertical">
+    <TextView
+                    android:id="@+id/description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    android:textSize="16sp"
+                    android:textColor="@android:color/black"
+                    android:padding="8dp"/>
+
+            </LinearLayout>
+
+            <!-- Edit Profile button -->
+            <Button
+                android:id="@+id/edit_profile_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Edit Profile"
+                android:layout_margin="16dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+

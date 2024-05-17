@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Kaz Tourism</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Svyat</string>
+    <string name="nav_header_subtitle">Kaz Tourism</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Logout</string>
+    <string name="tab_layout_description">Tabs</string>
+    <string name="first_fragment_text">This is the First Fragment</string>
+    <string name="button_text">Click me!</string>
+    <string name="menu_home">Home</string>
+    <string name="about_us_text">Welcome to Kaz Tourism! We are dedicated to providing the best experience for our users. Our mission is to deliver high-quality content and services that meet your needs. Thank you for choosing us!</string>
+    <string name="about_us_text_1">History</string>
+    <string name="about_us_text_2">Welcome to Kaz Tourism! We are dedicated to providing the best experience for our users. Our mission is to deliver high-quality content and services that meet your needs. Thank you for choosing us!</string>
+    <string name="desc_mosque">Mosque Beket Ata is a historic mosque located in Taraz, Kazakhstan. Named after the revered Sufi saint Beket Ata, the mosque is a significant pilgrimage site for Muslims in the region. Known for its beautiful architectural design and spiritual ambiance, Mosque Beket Ata serves as a place of worship and reflection, attracting visitors seeking solace and spiritual guidance.</string>
+    <string name="menu_gallery">Support</string>
+    <string name="menu_slideshow">Settings</string>
+    <string name="change_text_button">Change Text</string>
+    <string name="hello_fragment">Hello, Fragment!</string>
+    <string name="image_description">Your image description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_range_format">Selected Date Range: %1$s - %2$s</string>
+    <string name="menu_favourites">Favourites</string>
+    <string name="menu_profile">Profile</string>
+    <string name="flag_image_desc">Flag of the country</string>
+
+</resources>
