@@ -1,6 +1,41 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" version="24.7.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" version="24.7.14" pages="2">
+  <diagram id="PLK2t5zdSbKeSeCh-i4B" name="Page-2">
+    <mxGraphModel dx="330" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qMh6TCFmQQjdvTsQquxf-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;fillColor=#99FFFF;strokeColor=#99FFFF;startAngle=0.25;endAngle=0.0015914963824541276;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="379.94" y="230" width="200.06" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qMh6TCFmQQjdvTsQquxf-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;fillColor=#6666FF;strokeColor=#6666FF;startAngle=0.2335940524617486;endAngle=0.4225075804695899;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="qMh6TCFmQQjdvTsQquxf-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;fillColor=#FFCCFF;strokeColor=#FFCCFF;startAngle=0.423057019977625;endAngle=0.6521733528661313;" vertex="1" parent="1">
+          <mxGeometry x="379.94" y="220" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="qMh6TCFmQQjdvTsQquxf-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;fillColor=#FF9999;strokeColor=#FF9999;startAngle=0.4363532544534121;endAngle=0.7059462048149843;rotation=-165;" vertex="1" parent="1">
+          <mxGeometry x="381.42" y="228.26" width="199.34" height="196.4" as="geometry" />
+        </mxCell>
+        <mxCell id="p1IRJ7hf3uaZW8QiP4mZ-1" value="Business Leaders" style="text;spacingTop=-5;html=1;points=[];fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p1IRJ7hf3uaZW8QiP4mZ-2" value="AI Project Managers" style="text;spacingTop=-5;html=1;points=[];fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="579.94" y="250" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p1IRJ7hf3uaZW8QiP4mZ-3" value="IT Professionals" style="text;spacingTop=-5;html=1;points=[];fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="579.94" y="370" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p1IRJ7hf3uaZW8QiP4mZ-4" value="Data Scientists&amp;nbsp;" style="text;spacingTop=-5;html=1;points=[];fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="389" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p1IRJ7hf3uaZW8QiP4mZ-5" value="Participant Demographics in Focus Group" style="text;spacingTop=-5;html=1;points=[];fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="-430" dy="1294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="-961" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +104,9 @@
         </mxCell>
         <mxCell id="6RLW1QieSQcELM51D8rQ-768" value="Cost Barries&amp;nbsp;" style="text;spacingTop=-5;html=1;points=[];fontSize=35;" vertex="1" parent="1">
           <mxGeometry x="2490" y="1270" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RLW1QieSQcELM51D8rQ-773" value="Reported Difficulty Level" style="text;spacingTop=-5;html=1;points=[];fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="1600" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
